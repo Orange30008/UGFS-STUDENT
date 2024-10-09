@@ -1,0 +1,26 @@
+			KM1	KM2	KM3	KM4	KM5
+1	BorisovNikS	5					
+2	BocharnikovDP	5					
+3	BykovDS	0					
+4	VolkovValA	5					
+5	GalkinaAS	5					
+6	GorshkovMP	4					
+7	DavydovAlexA	5					
+8	ZakrevskyAlA	5					
+9	KozliayevYA	5					
+10	KotsubinskyaYV	5					
+11	KukalevKI	5					
+12	MarshalkoMV	0					
+13	MedvedskyPV	0					
+14	MoskaliovYV	0					
+15	NavayevaAD	4					
+16	ZudinKD	4					
+17	PopovIViac	5					
+18	RomanovII	5					
+19	RyzhkinMA	4					
+20	TikhonovNikS	5					
+21	KhaziyevMA	4					
+22	ChernyshovDS	0					
+23	ChumakovNV	5					
+24	ShipinskyKS	0					
+25	YakutinFD	5					

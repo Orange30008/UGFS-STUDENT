@@ -1,0 +1,13 @@
+			KM1	KM2	KM3	KM4	KM5
+1	GilmutdinovRI	5	0	0	0	0	
+2	ZakharovPK	5	0	0	0	0	
+3	IvanovMG	5	0	0	0	0	
+4	IsayevDanS	5	0	0	0	0	
+5	LimanskyaYY	2	0	0	0	0	
+6	NovoseltsevNV	4	0	0	0	0	
+7	PavlovYarN	2	0	0	0	0	
+8	PortnovMikA	5	0	0	0	0	
+9	SkarzhevskyaGA	5	0	0	0	0	
+10	SlepovAS	0	0	0	0	0	
+11	SuchkovaMV	5	0	0	0	0	
+12	YasinskyDV	4	0	0	0	0	
