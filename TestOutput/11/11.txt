@@ -8,6 +8,6 @@
 7	PavlovYarN	4	0	0	0	0	
 8	PortnovMikA	5	0	0	0	0	
 9	SkarzhevskyaGA	5	0	0	0	0	
-10	SlepovAS	0	0	0	0	0	
+10	SlepovAS	5	0	0	0	0	
 11	SuchkovaMV	5	0	0	0	0	
 12	YasinskyDV	4	0	0	0	0	
