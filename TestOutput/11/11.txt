@@ -9,5 +9,5 @@
 8	PortnovMikA	5	5	0	0	0	
 9	SkarzhevskyaGA	5	5	0	0	0	
 10	SlepovAS	5	5	0	0	0	
-11	SuchkovaMV	5	4	0	0	0	
+11	SuchkovaMV	5	5	0	0	0	
 12	YasinskyDV	4	5	0	0	0	
