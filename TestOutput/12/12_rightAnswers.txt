@@ -1,0 +1,14 @@
+			KM1	KM2	KM3	KM4	KM5
+1	AgaogluC	313122	342424				
+2	AleynikovaEP	133423	443333				
+3	AnuchinPY	333121	442431				
+4	BeliakovKA	422433	223111				
+5	DanilovVA	414211	134241				
+6	ZhdanovDS	414231	133144				
+7	ZverevYA	133322	312332				
+8	KonukhinaOV	411414	132211				
+9	MarchenkoSA	322343	221243				
+10	RazorvinAD	214113	141242				
+11	KhabachirovAA	341132	132114				
+12	ShcheglovaNA	312434	244141				
+13	ShcheniayevDA	244442	432411				

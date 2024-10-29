@@ -1,0 +1,9 @@
+			KM1	KM2	KM3	KM4	KM5
+1	BondarevPA	422331	131141				
+2	GorshkovaYekS	432123	322114				
+3	DoroshevaSA	213341	221321				
+4	YevseevAD	234222	222211				
+5	ZiborovAN	143323	422414				
+6	KochkaKV	243311	343212				
+7	MalikovDO	422413	424423				
+8	OrobchenkoSV	134224	342124				
