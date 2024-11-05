@@ -1,14 +1,14 @@
 			KM1	KM2	KM3	KM4	KM5
-1	AgaogluC	3	2	0	0	0	
-2	AleynikovaEP	5	4	0	0	0	
-3	AnuchinPY	3	2	0	0	0	
-4	BeliakovKA	5	5	0	0	0	
-5	DanilovVA	5	3	0	0	0	
+1	AgaogluC	3	0	0	0	0	
+2	AleynikovaEP	5	4	5	0	0	
+3	AnuchinPY	3	3	3	0	0	
+4	BeliakovKA	5	5	4	0	0	
+5	DanilovVA	5	3	5	0	0	
 6	ZhdanovDS	0	0	0	0	0	
 7	ZverevYA	4	3	0	0	0	
 8	KonukhinaOV	4	0	0	0	0	
-9	MarchenkoSA	5	3	0	0	0	
-10	RazorvinAD	5	4	0	0	0	
-11	KhabachirovAA	5	4	0	0	0	
-12	ShcheglovaNA	5	5	0	0	0	
+9	MarchenkoSA	5	3	2	0	0	
+10	RazorvinAD	5	4	5	0	0	
+11	KhabachirovAA	5	4	4	0	0	
+12	ShcheglovaNA	5	5	5	0	0	
 13	ShcheniayevDA	0	0	0	0	0	
