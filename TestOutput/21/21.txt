@@ -1,4 +1,4 @@
-			KM1	KM2	KM3	KM4	KM5
+			KM1	KM3	KM3	KM4	KM5
 1	BorisovNikS	5	4	3			
 2	BocharnikovDP	5	5	5			
 3	BykovDS	0	0	0			
