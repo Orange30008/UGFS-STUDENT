@@ -1,4 +1,4 @@
-			KM1	KM2	KM3	KM4	KM5
+			KM2	KM2	KM3	KM4	KM5
 1	GilmutdinovRI	5	4	0	0	0	
 2	ZakharovPK	5	5	5	0	0	
 3	IvanovMG	5	4	5	0	0	
