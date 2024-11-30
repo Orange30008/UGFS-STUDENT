@@ -1,9 +1,9 @@
 			KM1	KM2	KM3	KM4	KM5
-1	BondarevPA	5	4	0	0	0	
-2	GorshkovaYekS	5	4	0	0	0	
-3	DoroshevaSA	5	5	0	0	0	
-4	YevseevAD	5	5	0	0	0	
-5	ZiborovAN	5	5	0	0	0	
-6	KochkaKV	5	4	0	0	0	
-7	MalikovDO	5	5	0	0	0	
-8	OrobchenkoSV	5	5	0	0	0	
+1	BondarevPA	5	4	5	0	0	
+2	GorshkovaYekS	5	4	5	0	0	
+3	DoroshevaSA	5	5	5	0	0	
+4	YevseevAD	5	5	5	0	0	
+5	ZiborovAN	5	5	5	0	0	
+6	KochkaKV	5	4	5	0	0	
+7	MalikovDO	5	5	5	0	0	
+8	OrobchenkoSV	5	5	5	0	0	
