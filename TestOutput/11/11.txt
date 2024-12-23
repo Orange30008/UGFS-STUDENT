@@ -1,5 +1,5 @@
 			KM1	KM2	KM3	KM4	KM5
-1	GilmutdinovRI	5	4	0	4	0	
+1	GilmutdinovRI	5	4	4	4	4	
 2	ZakharovPK	5	5	5	3	3	
 3	IvanovMG	5	4	5	4	4	
 4	IsayevDanS	5	4	5	4	4	
@@ -8,6 +8,6 @@
 7	PavlovYarN	4	5	5	4	4	
 8	PortnovMikA	5	5	5	4	5	
 9	SkarzhevskyaGA	5	5	4	4	4	
-10	SlepovAS	5	5	5	4	0	
+10	SlepovAS	5	5	5	4	4	
 11	SuchkovaMV	5	5	5	4	4	
 12	YasinskyDV	4	5	4	3	4	
