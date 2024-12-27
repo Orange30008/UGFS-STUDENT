@@ -3,11 +3,11 @@
 2	AleynikovaEP	5	4	5	4	4	
 3	AnuchinPY	3	3	3	4	5	
 4	BeliakovKA	5	5	4	5	4	
-5	DanilovVA	5	3	5	3	2	
+5	DanilovVA	5	3	5	3	3	
 6	ZhdanovDS	0	0	0	0	0	
-7	ZverevYA	4	3	3	2	2	
-8	KonukhinaOV	4	4	4	0	0	
-9	MarchenkoSA	5	3	0	0	0	
+7	ZverevYA	4	3	3	3	3	
+8	KonukhinaOV	4	4	4	3	2	
+9	MarchenkoSA	5	3	2	2	3	
 10	RazorvinAD	5	4	5	3	3	
 11	KhabachirovAA	5	4	4	3	5	
 12	ShcheglovaNA	5	5	5	4	4	
