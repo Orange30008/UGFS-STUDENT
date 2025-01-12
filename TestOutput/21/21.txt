@@ -1,11 +1,11 @@
 			KM1	KM2	KM3	KM4	KM5
-1	BorisovNikS	5	4	3	3	2	
+1	BorisovNikS	5	4	3	3	3	
 2	BocharnikovDP	5	5	5	3	3	
 3	BykovDS	0	0	0	0	0	
-4	VolkovValA	5	4	5	3	2	
+4	VolkovValA	5	4	5	3	3	
 5	GalkinaAS	5	4	4	3	3	
-6	GorshkovMP	4	4	5	4	2	
-7	DavydovAlexA	5	3	4	0	2	
+6	GorshkovMP	4	4	5	4	3	
+7	DavydovAlexA	5	3	4	3	2	
 8	ZakrevskyAlA	5	0	0	0	0	
 9	KozliayevYA	5	5	5	3	3	
 10	KotsubinskyaYV	5	4	4	3	3	
@@ -19,7 +19,7 @@
 18	RomanovII	5	4	5	4	3	
 19	RyzhkinMA	4	4	4	3	3	
 20	TikhonovNikS	5	0	0	0	0	
-21	KhaziyevMA	4	3	3	0	0	
+21	KhaziyevMA	4	3	3	2	2	
 22	ChernyshovDS	0	0	0	0	0	
 23	ChumakovNV	5	0	0	0	0	
 24	ShipinskyKS	0	0	0	0	0	
