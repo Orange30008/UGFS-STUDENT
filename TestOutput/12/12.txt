@@ -1,5 +1,5 @@
 			KM1	KM2	KM3	KM4	KM5
-1	AgaogluC	3	4	3	3	0	
+1	AgaogluC	3	4	3	3	2	
 2	AleynikovaEP	5	4	5	4	4	
 3	AnuchinPY	3	3	3	4	5	
 4	BeliakovKA	5	5	4	5	4	
