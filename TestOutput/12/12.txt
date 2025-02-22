@@ -4,7 +4,7 @@
 3	AnuchinPY	3	3	3	4	5	
 4	BeliakovKA	5	5	4	5	4	
 5	DanilovVA	5	3	5	3	3	
-6	ZhdanovDS	0	0	0	0	0	
+6	ZhdanovDS	6	6	6	6	6	
 7	ZverevYA	4	3	3	3	3	
 8	KonukhinaOV	4	4	4	3	4	
 9	MarchenkoSA	5	3	0	0	3	
